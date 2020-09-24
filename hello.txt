@@ -1,4 +1,7 @@
 Hello World
 WELCOME TO EGCI313
 second commit
-Today is second lab
+Today is fifth lab
+
+Norrawit add: hello
+Norrawit add: egci313
